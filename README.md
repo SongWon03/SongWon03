@@ -1,4 +1,5 @@
-Hi, I'm an undergraduate student major in Life Science, in Korea University! I also double-major in Data Science. 
+Hi, I'm an undergraduate student majoring in Life Science and double majoring in Data Science at Korea University! (2022-)
+
 
 
 <!--
