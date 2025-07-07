@@ -1,4 +1,5 @@
-## Hi there 👋
+Hi, I'm an undergraduate student major in Life Science, in Korea University! I also double-major in Data Science. 
+
 
 <!--
 **SongWon03/SongWon03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
