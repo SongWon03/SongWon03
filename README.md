@@ -1,5 +1,5 @@
 Hi, I'm an undergraduate student majoring in Life Science and double majoring in Data Science at Korea University! (2022-)
-
+I'm managing my [GithubPage](https://songwon03.github.io/). Please visit here for my detailed information!
 
 
 <!--
