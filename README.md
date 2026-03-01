@@ -1,4 +1,4 @@
-Hi, I'm an undergraduate student majoring in Life Science and double majoring in Data Science at Korea University! (2022.03-2026.02)  
+Hi, I'm an integrated M.S./Ph.D. student at Korea University, majoring in Biomedicine&Nanobio Systems. I studied Life Science and Data Science during my undergraduate years (2022.03-2026.02).  
 I'm managing my [GithubPage](https://songwon03.github.io/). Please visit here for my detailed information!
 
 
