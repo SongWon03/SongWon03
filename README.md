@@ -1,7 +1,7 @@
 Hi, I'm an integrated M.S./Ph.D. student at Korea University, majoring in Biomedicine&Nanobio Systems. I studied Life Science and Data Science during my undergraduate years (2022.03-2026.02).  
 I'm managing my [GithubPage](https://songwon03.github.io/). Please visit here for my detailed information!
 
-[Molecular Genetics 1 presentation on 2026.05.26](https://docs.google.com/presentation/d/1ymviCA_z_5DWOWUEZdDt8AlG5FC6pZev/edit?usp=sharing&ouid=102328751853466048865&rtpof=true&sd=true)
+[NanoBiotechnology presentation on 2026.05.29](https://docs.google.com/presentation/d/1D4wmnTidl_CyV64Cjj0XoSABxP7QXEp2/edit?usp=drive_link&ouid=102328751853466048865&rtpof=true&sd=true)
 
 <!--
 **SongWon03/SongWon03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
